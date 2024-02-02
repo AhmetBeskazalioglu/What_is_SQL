@@ -1,6 +1,7 @@
-# What_is_SQL
+# What is SQL? How should it be used?
 This article provides information about the basic use of SQL (Structured Query Language). It explains what SQL is, for what purposes it is used, what commands it consists of and how it works with examples.
 
+# What is SQL? How should it be used?
 > SQL (Structured Query Language) is a programming language used in relational database management systems (RDBMS) for database access and data manipulation.
 > 
 
